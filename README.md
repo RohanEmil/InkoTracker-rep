@@ -1,6 +1,6 @@
 InkoTracker Report Repository
 
-#<img width="32" height="32" alt="favicon-32x32" src="https://github.com/user-attachments/assets/c7d236fa-8fab-471d-b69f-fd04be7b5ddc" />
+<img width="512" height="512" alt="android-chrome-512x512" src="https://github.com/user-attachments/assets/24459c8c-4807-4b98-978e-59fb1cfbd524" />
 
 Welcome! This repository is dedicated to collecting feedback, bug reports, feature ideas, and suggestions for **InkoTracker**.
 
