@@ -1,4 +1,4 @@
-# InkoTracker Report Repository
+<img width="1024" height="1024" alt="Inko_tracker Logo" src="https://github.com/user-attachments/assets/3b2b1daa-80ae-43b5-bbb6-b9dda43fb265" /># InkoTracker Report Repository
 
 Welcome! This repository is dedicated to collecting feedback, bug reports, feature ideas, and suggestions for **InkoTracker**.
 
